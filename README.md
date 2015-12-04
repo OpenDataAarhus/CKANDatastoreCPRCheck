@@ -1,5 +1,5 @@
 
-Check date where come from the CKAN datastore API, for the danish personally identifiable number.
+Check data where come from the CKAN datastore API, for the danish personally identifiable number.
 
 Setup
 --------------
