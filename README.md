@@ -5,7 +5,7 @@ Setup
 --------------
 Replace the existing action.py file or insert the following code.
 
-'''
+```
 def validcpr( data_dict ):  
     resource_id=data_dict["resource_id"]  
     ignore=read_ignore_list()  
@@ -59,4 +59,4 @@ after
         data_dict['records'] = records  
 		if validcpr(data_dict) is not False:  
             cprError()			  
-'''
+```
