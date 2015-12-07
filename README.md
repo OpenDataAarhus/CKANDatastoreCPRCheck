@@ -3,7 +3,7 @@ Check data where come from the CKAN datastore API, for the danish personally ide
 
 Setup
 --------------
-Replace the exsisterende action.py file or insert the following code.
+Replace the existing action.py file or insert the following code.
 
 def validcpr( data_dict ):
     resource_id=data_dict["resource_id"]
